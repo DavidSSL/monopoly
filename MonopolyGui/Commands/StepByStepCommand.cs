@@ -11,7 +11,7 @@ namespace MonopolyGui
     /// <summary>
     /// Plays a game one move at a time.
     /// </summary>
-    [ImplementPropertyChanged]
+    //[ImplementPropertyChanged]
     public class StepByStepCommand : ICommand
     {
         public event EventHandler CanExecuteChanged;

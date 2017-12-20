@@ -8,7 +8,7 @@ namespace MonopolyGui
     /// <summary>
     /// Represents a position on the monopoly board.
     /// </summary>
-    [ImplementPropertyChanged]
+    //[ImplementPropertyChanged]
     public class BoardPosition
     {
         /// <summary>
